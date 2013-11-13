@@ -3,7 +3,7 @@
   Plugin Name: WordPress Music plugin by righTune
   Plugin URI: http://www.rightune.com
   Description: WordPress Music is the easiest way to play background music on your WordPress website. Engage your users emotionally by playing relevant, customized background music on your websites. 
-  Version: 1.0
+  Version: 1.0.1
   Author: righTune
   Author URI: http://www.rightune.com
  */
