@@ -30,6 +30,7 @@ You can find our detailed FAQ page [here]("http://www.rightune.com/faq).  
 1. righTune background music player
 
 == Changelog ==
+= 1.0.1 =
+* Minor Updates
 = 1.0 =
- 
 * Initial version
