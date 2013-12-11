@@ -23,7 +23,24 @@ Key features:
 1. Upload the plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress  
 3. Follow the instructions on the plugin settings page</p>
-== Frequently Asked Questions ==
+== Frequently Asked Questions ==== Installation ==
+For an automatic installation through WordPress:
+
+    1. Go to the 'Add New' plugins screen in your WordPress admin area
+    2. Search for 'WordPress Music'
+    3. Click 'Install Now' and activate the plugin
+    4. Follow the instructions on the plugin settings page
+
+For a manual installation via FTP:
+
+    1. Upload the plugin folder to the /wp-content/plugins/ directory
+    2. Activate the plugin through the 'Plugins' screen in your WordPress admin area
+    3. Follow the instructions on the plugin settings page
+
+To upload the plugin through WordPress, instead of FTP:
+
+    Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
+
 
 You can find our detailed FAQ page [here]("http://www.rightune.com/faq).  
 == Screenshots ==
