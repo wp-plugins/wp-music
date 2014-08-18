@@ -2,7 +2,7 @@
 Contributors: righTune 
 Tags: music,background music,music player,righTune,engagement,ecommerce,audio,mp3,content
 Requires at least: 2.7
-Tested up to: 3.7
+Tested up to: 3.9.2
 Stable tag: 1.0
 
 Engage your users emotionally by playing relevant, customized music. WordPress Music is the easiest way to play background music on your site. FREE.
